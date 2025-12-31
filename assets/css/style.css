@@ -401,7 +401,7 @@ body {
     }
 
     .card h2 {
-        font-size: 3.6rem;
+        font-size: 2.6rem;
         margin: 10px 0;
         line-height: 1.2;
         text-shadow:
@@ -412,7 +412,7 @@ body {
     }
 
     .card p {
-        font-size: 2.1rem;
+        font-size: 1.6rem;
         line-height: 1.6;
         padding: 0 15px;
         margin-bottom: 10px;
@@ -426,7 +426,7 @@ body {
     }
 
     .card-footer {
-        font-size: 2.2rem;
+        font-size: 1.4rem;
         margin-top: 10px;
         text-shadow:
             2px 2px 5px rgba(196, 30, 58, 0.4),
@@ -457,7 +457,7 @@ body {
     }
 
     .card h2 {
-        font-size: 3.6rem;
+        font-size: 2.6rem;
         margin: 8px 0;
         text-shadow:
             3px 3px 6px rgba(139, 0, 0, 0.5),
@@ -466,7 +466,7 @@ body {
     }
 
     .card p {
-        font-size: 2.1rem;
+        font-size: 1.6rem;
         line-height: 1.5;
         padding: 0 10px;
         text-shadow:
@@ -478,7 +478,7 @@ body {
     }
 
     .card-footer {
-        font-size: 2.2rem;
+        font-size: 1.4rem;
         text-shadow:
             2px 2px 5px rgba(196, 30, 58, 0.4),
             1px 1px 3px rgba(0, 0, 0, 0.2),
