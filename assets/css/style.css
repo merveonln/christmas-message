@@ -19,7 +19,7 @@ body {
     align-items: center;
     background:
         linear-gradient(rgba(13, 43, 26, 0.3), rgba(26, 71, 42, 0.3)),
-        url('background.png') center/cover no-repeat fixed;
+        url('../background.png') center/cover no-repeat fixed;
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -147,7 +147,7 @@ body {
     height: 200px;
     background:
         linear-gradient(135deg, rgba(255, 250, 245, 0.90) 0%, rgba(255, 245, 240, 0.90) 100%),
-        url('card-background.png') center/cover;
+        url('../card-background.png') center/cover;
     background-blend-mode: overlay;
     background-size: cover;
     background-position: center;
@@ -389,7 +389,7 @@ body {
         border-radius: 0;
         background:
             linear-gradient(135deg, rgba(255, 250, 245, 0.99) 0%, rgba(255, 245, 240, 0.99) 100%),
-            url('bg-2.png') center/cover;
+            url('../card-background.png') center/cover;
         background-blend-mode: overlay;
         display: flex !important;
         flex-direction: column !important;
