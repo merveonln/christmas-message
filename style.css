@@ -24,7 +24,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Arka Plan Süsleri (Kar ve Hediyeler) */
+/* Background decorations (snow and gifts) */
 .decoration-container {
     position: absolute;
     width: 100%;
@@ -49,7 +49,7 @@ body {
     }
 }
 
-/* Zarf ve Kart Yapısı */
+/* Envelope and card structure */
 .page-title {
     position: absolute;
     top: 100px;
@@ -111,7 +111,7 @@ body {
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
 }
 
-/* Zarfın Ön Yüzü */
+/* Front of the envelope */
 .envelope::before {
     content: "";
     position: absolute;
@@ -124,7 +124,7 @@ body {
     border-radius: 0 0 10px 10px;
 }
 
-/* Üst Kapak */
+/* Top flap */
 .flap {
     position: absolute;
     top: 0;
@@ -138,7 +138,7 @@ body {
     z-index: 6;
 }
 
-/* Mesaj Kartı */
+/* message card */
 .card {
     position: absolute;
     bottom: 10px;
@@ -219,7 +219,7 @@ body {
     padding: 0 85px;
 }
 
-/* AÇIK HALİ */
+/* open card */
 .envelope-wrapper.open .flap {
     transform: rotateX(180deg);
     z-index: 1;
